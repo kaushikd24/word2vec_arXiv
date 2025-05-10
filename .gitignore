@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Data
+*.csv
+*.tsv
+*.txt
+*.vec
+*.npy
+
+# Model checkpoints
+*.pt
+*.pth
+
+# OS junk
+.DS_Store
+
+# Env
+.env
