@@ -20,3 +20,4 @@ __pycache__/
 
 # Env
 .env
+word2vec_model.npz
